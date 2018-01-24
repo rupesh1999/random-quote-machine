@@ -1,0 +1,40 @@
+.main-wrapper {
+    width: 90vw;
+    position: relative;
+    top: 30px;
+    left: 70px;
+    height: 90vh;
+    background-color: rgba(177, 171, 171, 0.586);
+}
+
+.wrapper {
+    height: 100vh;
+    background-image: url("images/background1.jpg");
+}
+.second-wrapper {
+    height: 40vh;
+}
+.wrapper h1 {
+    position: relative;
+    top: 60px;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+}
+.btn {
+    margin-top: 100px;
+}
+.quote {
+    color: rgb(54, 54, 54);
+    border-radius: 30px;
+    height: 30vh;
+    width: 60vw;
+    background-color: rgba(128, 128, 128, 0.582);
+    margin-left: 20vw;
+    margin-top: 6vw;
+    position: relative;
+    right: 60px;
+}
+.array {
+    position: relative;
+    top: 60px;
+}
